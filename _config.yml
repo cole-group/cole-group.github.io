@@ -18,7 +18,7 @@ title: Computational Chemistry @ Newcastle
 description: >- # this means to ignore newlines until "baseurl:"
   We are a computational/theoretical research group from Newcastle University, 
   specialising in atomistic simulations in medicinal chemistry and biology. This 
-  blog is written by our team, with the goal of passing on some of the tips 
+  blog is written by our team to showcase their work and pass on some of the tips 
   and tricks in computational chemistry that we think others will find useful.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
