@@ -5,4 +5,4 @@
 layout: home
 ---
 
-This is a home page
+Welcome to the home page!
