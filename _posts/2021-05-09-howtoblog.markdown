@@ -13,7 +13,7 @@ You'll find this post in the `_posts` directory. Download or copy the raw source
 Once done, you can initialise a pull request to merge your changes, or simply send your post to **DC**.
 
 Include an image:
-![QUBEKit logo](/assets/QuBeKit.png)
+![QUBEKit logo](assets/QuBeKit.png)
 
 Jekyll also offers powerful support for code snippets:
 
