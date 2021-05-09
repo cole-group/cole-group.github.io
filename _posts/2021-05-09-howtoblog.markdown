@@ -12,7 +12,7 @@ You'll find this post in the `_posts` directory. Download or copy the raw source
 
 Once done, you can initialise a pull request to merge your changes, or simply send your post to **DC**.
 
-Include an image in the text:
+Include an image in your post:
 
 ![QUBEKit logo](/assets/QuBeKit.png)
 
@@ -27,6 +27,8 @@ def lj(r):
     u_r = 4 * eps * u_r
     return u_r
 {% endhighlight %}
+
+## How to find out more
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
