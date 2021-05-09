@@ -12,9 +12,11 @@ You'll find this post in the `_posts` directory. Download or copy the raw source
 
 Once done, you can initialise a pull request to merge your changes, or simply send your post to **DC**.
 
-Include an image:
+Include an image in the text:
 
 ![QUBEKit logo](/assets/QuBeKit.png)
+
+or [link to it in the text](/assets/QuBeKit.png).
 
 Jekyll also offers powerful support for code snippets:
 
