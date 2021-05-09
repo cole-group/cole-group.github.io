@@ -1,9 +1,10 @@
----
 layout: post
 title:  "How to add a blog post"
 date:   2021-05-09
-categories: blog mat danny
+tags: blog mat danny
 ---
+
+# Welcome!
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter.
 
