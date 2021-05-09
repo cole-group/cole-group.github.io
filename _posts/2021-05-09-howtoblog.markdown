@@ -2,7 +2,6 @@
 layout: post
 title:  "How to add a blog post"
 date:   2021-05-09
-tags:   blog mat danny
 ---
 
 # Welcome!
