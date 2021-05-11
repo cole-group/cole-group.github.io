@@ -25,11 +25,17 @@ or [link to it in the text](/assets/QuBeKit.png).
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
-def lj(r):
-    """returns LJ potential for given r"""
-    u_r = (sigma/r)**12 - (sigma/r)**6
-    u_r *= 4 * eps
-    return u_r
+def _monopole_esp_one_charge(charge: float, dist: float) -> float:
+    """
+    Calculate the esp from a monopole at a given distance
+    :param charge: charge at atom centre
+    :param dist: distance from sample_coords to atom_coords
+        (provided as argument to prevent repeated calculation)
+    :return: monopole esp value
+    """
+    return (charge * ELECTRON_CHARGE * ELECTRON_CHARGE) / (
+        4 * PI * VACUUM_PERMITTIVITY * dist
+    )
 {% endhighlight %}
 
 ## How to find out more
