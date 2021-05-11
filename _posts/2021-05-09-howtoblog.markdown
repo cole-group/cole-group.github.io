@@ -8,9 +8,9 @@ date:   2021-05-09
 
 The source for this blog may be found [here][blog-source].
 
-Feel free to suggest a blog post on any topic you like. It could be a summary of a paper (your's or other's) with code, tools or techniques that you use that others might find useful, or a piece of outreach writing. Any length is absolutely fine.
+Feel free to suggest a blog post on any topic you like. It could be a summary of a paper with code, computational tools or techniques that others might find useful, or a piece of outreach writing. Any length is absolutely fine.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.markdown` and includes the necessary front matter.
+To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.markdown` and includes the necessary front matter (see the first 5 lines of the source for this post).
 
 You'll find this post in the `_posts` directory. Download or copy the raw source of this post to get an idea about how it works and use it as a template for writing your own.
 
