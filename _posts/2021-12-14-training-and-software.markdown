@@ -11,11 +11,13 @@ In this post, I'll link to a few training materials and software packages that m
 
 [CCP-BioSim.][ccpbiosim] Excellent set of training modules and Youtube channel. Subjects include biomolecular dynamics, FESetup, BioSimSpace and Python for biomolecular modelling.
 
+[RSC Chemical Information and Computer Applications Group.][rsc-cicag] Highly recommended series of webinars on open source tools for chemistry, including cheminformatics, docking (gnina), chimeraX and pymol.
+
 [Bespoke-fit.][bespokefit] A workshop describing the use of Open Force Field's [bespoke-fit package][bespokefit-github] for fitting molecule-specific torsion parameters, given by our own Josh Horton.
 
 [TeachOpenCADD.][teachopencadd] Really useful set of talktorials on the use of open source cheminformatics tools for computer-aided drug design.
 
-[Data science.][turing]
+[Data science.][turing] The Alan Turing Institute’s Introduction to Research Data Science course, including [github repo][turing-repo].
 
 
 ## Research Software
@@ -61,7 +63,10 @@ In this post, I'll link to a few training materials and software packages that m
 [bss]: https://biosimspace.org
 [bss-tut]: https://github.com/michellab/BioSimSpaceTutorials
 [somd-qube]: https://github.com/cole-group/QUBE-SOMD-paper
-
+[rsc-cicag]: https://www.youtube.com/c/RSCCICAG/videos
 
 [brown]: https://pubs.rsc.org/en/content/ebook/978-1-78262-163-8
 [python]: https://www-cambridge-org.libproxy.ncl.ac.uk/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237
+[turing-github]: https://github.com/alan-turing-institute/rds-course
+[turing]: https://alan-turing-institute.github.io/rds-course/index.html
+
