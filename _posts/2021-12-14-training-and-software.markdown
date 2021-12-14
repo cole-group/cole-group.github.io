@@ -27,5 +27,5 @@ In this post, I'll link to a few other blog posts, training materials, and softw
 
 [ccpbiosim]: https://www.ccpbiosim.ac.uk/training
 [openff]: https://openforcefield.org
-[openff1] https://open-forcefield-toolkit.readthedocs.io/en/0.10.1/users/molecule_cookbook.html
-[openff2] https://github.com/openforcefield/openff-toolkit/tree/master/examples#examples-using-smirnoff-with-the-toolkit
+[openff1]: https://open-forcefield-toolkit.readthedocs.io/en/0.10.1/users/molecule_cookbook.html
+[openff2]: https://github.com/openforcefield/openff-toolkit/tree/master/examples#examples-using-smirnoff-with-the-toolkit
