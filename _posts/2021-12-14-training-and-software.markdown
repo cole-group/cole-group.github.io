@@ -11,7 +11,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [CCP-BioSim.][ccpbiosim] Excellent set of training modules and Youtube channel. Subjects include biomolecular dynamics, FESetup, BioSimSpace and Python for biomolecular modelling.
 
-[Bespoke-fit.][bespokefit] A workshop describing the use of Open Force Field's [bespoke-fit package][bespokefit-github] for fitting molecule-specific torsion parameters, given by own Josh Horton.
+[Bespoke-fit.][bespokefit] A workshop describing the use of Open Force Field's [bespoke-fit package][bespokefit-github] for fitting molecule-specific torsion parameters, given by our own Josh Horton.
 
 [TeachOpenCADD.][teachopencadd] Really useful set of talktorials on the use of open source cheminformatics tools for computer-aided drug design.
 
@@ -41,9 +41,13 @@ In this post, I'll link to a few training materials and software packages that m
 
 ## Miscellaneous
 
-[Pymol.]
+[Learning Scientific Programming with Python.][python] The course textbook for my undergraduate Python classes (Newcastle students, feel free to message me for access to course materials). Textbook should be available through Newcastle University library.
 
 [Machine learning.]
+
+[In Silico Medicinal Chemistry: Computational Methods to Support Drug Design][brown] Book by Nathan Brown on computational tools for drug design. Should be available through Newcastle University library.
+
+[Pymol.]
 
 
 
@@ -59,5 +63,5 @@ In this post, I'll link to a few training materials and software packages that m
 [somd-qube]: https://github.com/cole-group/QUBE-SOMD-paper
 
 
-
-
+[brown]: https://pubs.rsc.org/en/content/ebook/978-1-78262-163-8
+[python]: https://www-cambridge-org.libproxy.ncl.ac.uk/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237
