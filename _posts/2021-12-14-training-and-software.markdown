@@ -4,7 +4,7 @@ title:  "Training & Software Resources"
 date:   2021-12-14
 ---
 
-In this post, I'll link to a few training materials and software packages that might be useful to new starters in our lab (or elsewhere). I intend for this to be updated regularly, so please feel free to suggest changes or additions. A big thank you to everyone that has put these online resources together, we find them invaluable!
+In this post, I'll link to a few training materials and software packages that might be useful to new starters in our group (or elsewhere). I intend for this to be updated regularly, so please feel free to suggest changes or additions, particularly if links break. A big thank you to everyone that has made these resources available online, we find them invaluable!
 
 
 ## Workshops
@@ -17,12 +17,15 @@ In this post, I'll link to a few training materials and software packages that m
 
 [TeachOpenCADD.][teachopencadd] Really useful set of talktorials on the use of open source cheminformatics tools for computer-aided drug design.
 
-[Data science.][turing] The Alan Turing Institute’s Introduction to Research Data Science course, including [github repo][turing-repo].
+[Data science.][turing] The Alan Turing Institute’s Introduction to Research Data Science course, including [github repo][turing-github].
+
+[Molecular Software Sciences Institute.][molssi] Highly recommended workshops on topics including programming and molecular modelling. 
+
 
 
 ## Research Software
 
-[QUBEKit.][qubekit]
+[QUBEKit.][qubekit] Our own Quantum Mechanical Bespoke Force Field Derivation Toolkit, by Chris Ringrose and Josh Horton. More tutorials coming soon, watch this space!
 
 [Open Force Field.][openff] We're very happy to be working with the OpenForceField initiative, and we make extensive use of their software infrastructure in our work. A good place to start is with the [documentation examples][openff1] on building and interacting with molecules, and a [set of notebooks][openff2], which show how to use the toolkit to parameterise a system and run a short simulation in OpenMM.
 
@@ -69,4 +72,6 @@ In this post, I'll link to a few training materials and software packages that m
 [python]: https://www-cambridge-org.libproxy.ncl.ac.uk/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237
 [turing-github]: https://github.com/alan-turing-institute/rds-course
 [turing]: https://alan-turing-institute.github.io/rds-course/index.html
+[molssi]: http://education.molssi.org/resources.html#programming
 
+[qubekit]: https://github.com/qubekit/QUBEKit
