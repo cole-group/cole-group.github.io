@@ -35,13 +35,13 @@ In this post, I'll link to a few training materials and software packages that m
 
 [RDKit.][rdkit] Open source cheminformatics toolkit, which we use in virtually all our workflows. You'll find many tutorials online, including [Getting started with RDKit in python][rdkit-tut] and introductory youtube tutorials by Jan Jensen: [Tutorial 1][rdkit1]; [Tutorial 2][rdkit2].
 
-[QCEngine.][qcengine]
+[QCArchive.][qcarchive] Josh In particular has done a lot of work with MolSSI's quantum chemistry archive, which is resource for compiling and sharing QM data. Lots of documentation is available, including for [QCengine][qcengine], a quantum chemistry program executor and IO standardiser for quantum chemistry.
 
 [ONETEP.][onetep] Several of our projects involve large-scale DFT calculations, often working with the ONETEP community. Frequent workshops are run and [tutorials][onetep-tut] are available online.
 
-[DeLinker.][delinker]
+[DeLinker.][delinker] Deep generative models for 3D linker design. We've found this to be very promising in fragment-based design projects.
 
-[Gnina.][gnina]
+[Gnina.][gnina] We don't use docking very often to be honest, but do like the ease-of-use and promising accuracy of gnina. David Koes also has an excellent [webinar][ginina-tut] describing its use.
 
 
 
@@ -55,8 +55,6 @@ In this post, I'll link to a few training materials and software packages that m
 [In Silico Medicinal Chemistry: Computational Methods to Support Drug Design][brown] Book by Nathan Brown on computational tools for drug design. Should be available through Newcastle University library.
 
 [Pymol.]
-
-[QCArchive.]
 
 
 
@@ -89,8 +87,8 @@ In this post, I'll link to a few training materials and software packages that m
 [rdkit-tut]: https://www.rdkit.org/docs/GettingStartedInPython.html
 [rdkit1]: https://www.youtube.com/watch?v=ERvUf_lNopo&t=0s
 [rdkit2]: https://www.youtube.com/watch?v=3qzZbaUzo9M
-
-
-
-
-
+[delinker]: https://github.com/oxpig/DeLinker
+[qcarchive]: https://qcarchive.molssi.org
+[qcengine]: http://docs.qcarchive.molssi.org/projects/QCEngine/en/stable/
+[gnina]: https://github.com/gnina/gnina
+[gnina-tut]: https://www.youtube.com/watch?v=MG3Srzi5kZ0
