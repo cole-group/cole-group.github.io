@@ -33,7 +33,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [BioSimSpace / SOMD.][bss] Python framework for biomolecular simulation, includes a [set of tutorials][bss-tut] for common simulation types. [Our own tutorials][somd-qube] written with Julien Michel's lab show how to use SOMD in protein-ligand binding and hydration free energy calculations with different force fields.
 
-[RDKit.][rdkit] 
+[RDKit.][rdkit] You'll find many tutorials online, including [Getting started with RDKit in python][https://www.rdkit.org/docs/GettingStartedInPython.html] and introductory youtube tutorials by Jan Jensen: [Tutorial 1][https://www.youtube.com/watch?v=ERvUf_lNopo&t=0s]; [Tutorial 2][https://www.youtube.com/watch?v=3qzZbaUzo9M].
 
 [QCEngine.][qcengine]
 
@@ -60,8 +60,6 @@ In this post, I'll link to a few training materials and software packages that m
 
 
 
--- Daniel Cole
-
 
 
 [ccpbiosim]: https://www.ccpbiosim.ac.uk/training
@@ -87,5 +85,4 @@ In this post, I'll link to a few training materials and software packages that m
 [openmm-tut]: https://openmm.org/tutorials
 [onetep]: https://www.onetep.org/Main/HomePage
 [onetep-tut]: https://www.onetep.org/Main/Tutorials
-
-
+[rdkit]: https://www.rdkit.org/docs/index.html
