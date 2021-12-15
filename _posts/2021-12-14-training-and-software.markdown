@@ -17,7 +17,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [TeachOpenCADD.][teachopencadd] Really useful set of talktorials on the use of open source cheminformatics tools for computer-aided drug design.
 
-[Data science.][turing] The Alan Turing Institute’s Introduction to Research Data Science course, including the associated [github repo][turing-github].
+[Data science and software engineering.][turing] The Alan Turing Institute offers online [Introduction to Research Data Science][turing1] ([github repo][turing-github]) and [Software Engineering][turing2] ([github repo][turing-github2]) courses.
 
 [Molecular Software Sciences Institute.][molssi] Highly recommended workshops on topics including programming and molecular modelling. 
 
@@ -52,7 +52,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Machine learning.][ml] I'm only on Chapter 2 so far, but this looks like a really good online textbook on deep learning for molecules and materials, with code examples.
 
-[In Silico Medicinal Chemistry: Computational Methods to Support Drug Design][brown] Book by Nathan Brown on computational tools for drug design. Should be available through Newcastle University library.
+[In Silico Medicinal Chemistry: Computational Methods to Support Drug Design.][brown] Book by Nathan Brown on computational tools for drug design. Should be available through Newcastle University library.
 
 
 
@@ -70,8 +70,11 @@ In this post, I'll link to a few training materials and software packages that m
 [rsc-cicag]: https://www.youtube.com/c/RSCCICAG/videos
 [brown]: https://pubs.rsc.org/en/content/ebook/978-1-78262-163-8
 [python]: https://www-cambridge-org.libproxy.ncl.ac.uk/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237
-[turing-github]: https://github.com/alan-turing-institute/rds-course
-[turing]: https://alan-turing-institute.github.io/rds-course/index.html
+[turing]: https://www.turing.ac.uk
+[turing-github1]: https://github.com/alan-turing-institute/rds-course
+[turing1]: https://alan-turing-institute.github.io/rds-course/index.html
+[turing2]: https://alan-turing-institute.github.io/rse-course/html/index.html
+[turing-github2]: https://github.com/alan-turing-institute/rse-course
 [molssi]: http://education.molssi.org/resources.html#programming
 [qubekit]: https://github.com/qubekit/QUBEKit
 [openmm]: https://openmm.org
