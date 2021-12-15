@@ -17,7 +17,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [TeachOpenCADD.][teachopencadd] Really useful set of talktorials on the use of open source cheminformatics tools for computer-aided drug design.
 
-[Data science.][turing] The Alan Turing Institute’s Introduction to Research Data Science course, including [github repo][turing-github].
+[Data science.][turing] The Alan Turing Institute’s Introduction to Research Data Science course, including the associated [github repo][turing-github].
 
 [Molecular Software Sciences Institute.][molssi] Highly recommended workshops on topics including programming and molecular modelling. 
 
@@ -29,18 +29,20 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Open Force Field.][openff] We're very happy to be working with the OpenForceField initiative, and we make extensive use of their software infrastructure in our work. A good place to start is with the [documentation examples][openff1] on building and interacting with molecules, and a [set of notebooks][openff2], which show how to use the toolkit to parameterise a system and run a short simulation in OpenMM.
 
-[OpenMM.][openmm]
+[OpenMM.][openmm] All of our atomistic molecular dynamics simulations are performed through OpenMM. A few tutorials are available [here][openmm-tut], with more to follow I believe.
 
 [BioSimSpace / SOMD.][bss] Python framework for biomolecular simulation, includes a [set of tutorials][bss-tut] for common simulation types. [Our own tutorials][somd-qube] written with Julien Michel's lab show how to use SOMD in protein-ligand binding and hydration free energy calculations with different force fields.
 
-
 [RDKit.][rdkit] 
+
+[QCEngine.][qcengine]
+
+[ONETEP.][onetep] Several of our projects involve large-scale DFT calculations, often working with the ONETEP community. Frequent workshops are run and [tutorials][onetep-tut] are available online.
 
 [DeLinker.][delinker]
 
 [Gnina.][gnina]
 
-[ONETEP.][onetep]
 
 
 
@@ -53,6 +55,12 @@ In this post, I'll link to a few training materials and software packages that m
 [In Silico Medicinal Chemistry: Computational Methods to Support Drug Design][brown] Book by Nathan Brown on computational tools for drug design. Should be available through Newcastle University library.
 
 [Pymol.]
+
+[QCArchive.]
+
+
+
+-- Daniel Cole
 
 
 
@@ -75,3 +83,9 @@ In this post, I'll link to a few training materials and software packages that m
 [molssi]: http://education.molssi.org/resources.html#programming
 
 [qubekit]: https://github.com/qubekit/QUBEKit
+[openmm]: https://openmm.org
+[openmm-tut]: https://openmm.org/tutorials
+[onetep]: https://www.onetep.org/Main/HomePage
+[onetep-tut]: https://www.onetep.org/Main/Tutorials
+
+
