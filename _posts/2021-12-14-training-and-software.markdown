@@ -41,7 +41,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [DeLinker.][delinker] Deep generative models for 3D linker design. We've found this to be very promising in fragment-based design projects.
 
-[Gnina.][gnina] We don't use docking very often to be honest, but do like the ease-of-use and promising accuracy of gnina. David Koes also has an excellent [webinar][ginina-tut] describing its use.
+[Gnina.][gnina] We don't use docking very often to be honest, but do like the ease-of-use and promising accuracy of gnina. David Koes also has an excellent [webinar][gnina-tut] describing its use.
 
 
 
@@ -50,12 +50,9 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Learning Scientific Programming with Python.][python] The course textbook for my undergraduate Python classes (Newcastle students, feel free to message me for access to course materials). Textbook should be available through Newcastle University library.
 
-[Machine learning.]
+[Machine learning.][ml] I'm only on Chapter 2 so far, but this looks like a really good online textbook on deep learning for molecules and materials, with code examples.
 
 [In Silico Medicinal Chemistry: Computational Methods to Support Drug Design][brown] Book by Nathan Brown on computational tools for drug design. Should be available through Newcastle University library.
-
-[Pymol.]
-
 
 
 
@@ -71,13 +68,11 @@ In this post, I'll link to a few training materials and software packages that m
 [bss-tut]: https://github.com/michellab/BioSimSpaceTutorials
 [somd-qube]: https://github.com/cole-group/QUBE-SOMD-paper
 [rsc-cicag]: https://www.youtube.com/c/RSCCICAG/videos
-
 [brown]: https://pubs.rsc.org/en/content/ebook/978-1-78262-163-8
 [python]: https://www-cambridge-org.libproxy.ncl.ac.uk/core/books/learning-scientific-programming-with-python/3D264483BC7B380A3059B3861C661237
 [turing-github]: https://github.com/alan-turing-institute/rds-course
 [turing]: https://alan-turing-institute.github.io/rds-course/index.html
 [molssi]: http://education.molssi.org/resources.html#programming
-
 [qubekit]: https://github.com/qubekit/QUBEKit
 [openmm]: https://openmm.org
 [openmm-tut]: https://openmm.org/tutorials
@@ -92,3 +87,4 @@ In this post, I'll link to a few training materials and software packages that m
 [qcengine]: http://docs.qcarchive.molssi.org/projects/QCEngine/en/stable/
 [gnina]: https://github.com/gnina/gnina
 [gnina-tut]: https://www.youtube.com/watch?v=MG3Srzi5kZ0
+[ml]: https://dmol.pub/intro.html
