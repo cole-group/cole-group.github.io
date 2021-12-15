@@ -27,13 +27,13 @@ In this post, I'll link to a few training materials and software packages that m
 
 [QUBEKit.][qubekit] Our own Quantum Mechanical Bespoke Force Field Derivation Toolkit, by Chris Ringrose and Josh Horton. More tutorials coming soon, watch this space!
 
-[Open Force Field.][openff] We're very happy to be working with the OpenForceField initiative, and we make extensive use of their software infrastructure in our work. A good place to start is with the [documentation examples][openff1] on building and interacting with molecules, and a [set of notebooks][openff2], which show how to use the toolkit to parameterise a system and run a short simulation in OpenMM.
+[Open Force Field.][openff] We're very happy to be working with the Open Force Field initiative, and we make extensive use of their software infrastructure in our work. A good place to start is with the [documentation examples][openff1] on building and interacting with molecules, and a [set of notebooks][openff2], which show how to use the toolkit to parameterise a system and run a short simulation in OpenMM.
 
 [OpenMM.][openmm] All of our atomistic molecular dynamics simulations are performed through OpenMM. A few tutorials are available [here][openmm-tut], with more to follow I believe.
 
 [BioSimSpace / SOMD.][bss] Python framework for biomolecular simulation, includes a [set of tutorials][bss-tut] for common simulation types. [Our own tutorials][somd-qube] written with Julien Michel's lab show how to use SOMD in protein-ligand binding and hydration free energy calculations with different force fields.
 
-[RDKit.][rdkit] You'll find many tutorials online, including [Getting started with RDKit in python][https://www.rdkit.org/docs/GettingStartedInPython.html] and introductory youtube tutorials by Jan Jensen: [Tutorial 1][https://www.youtube.com/watch?v=ERvUf_lNopo&t=0s]; [Tutorial 2][https://www.youtube.com/watch?v=3qzZbaUzo9M].
+[RDKit.][rdkit] Open source cheminformatics toolkit, which we use in virtually all our workflows. You'll find many tutorials online, including [Getting started with RDKit in python][rdkit-tut] and introductory youtube tutorials by Jan Jensen: [Tutorial 1][rdkit1]; [Tutorial 2][rdkit2].
 
 [QCEngine.][qcengine]
 
@@ -86,3 +86,11 @@ In this post, I'll link to a few training materials and software packages that m
 [onetep]: https://www.onetep.org/Main/HomePage
 [onetep-tut]: https://www.onetep.org/Main/Tutorials
 [rdkit]: https://www.rdkit.org/docs/index.html
+[rdkit-tut]: https://www.rdkit.org/docs/GettingStartedInPython.html
+[rdkit1]: https://www.youtube.com/watch?v=ERvUf_lNopo&t=0s
+[rdkit2]: https://www.youtube.com/watch?v=3qzZbaUzo9M
+
+
+
+
+
