@@ -17,7 +17,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [TeachOpenCADD.][teachopencadd] Really useful set of talktorials on the use of open source cheminformatics tools for computer-aided drug design.
 
-[Data science and software engineering.][turing] The Alan Turing Institute offers online [Introduction to Research Data Science][turing1] ([github repo][turing-github]) and [Software Engineering][turing2] ([github repo][turing-github2]) courses.
+[The Alan Turing Institute][turing] offers online [Introduction to Research Data Science][turing1] ([github repo][turing-github1]) and [Software Engineering][turing2] ([github repo][turing-github2]) courses.
 
 [Molecular Software Sciences Institute.][molssi] Highly recommended workshops on topics including programming and molecular modelling. 
 
