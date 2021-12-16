@@ -21,6 +21,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Molecular Software Sciences Institute.][molssi] Highly recommended workshops on topics including programming and molecular modelling. 
 
+[The AI3SD network][ai3sd1] have kindly made available a series of recorded research seminars, as well as a [Skills 4 Scientists][ai3sd2] series (including research data management, python, version control, ethics, and career development).
 
 
 ## Research Software
@@ -93,3 +94,5 @@ In this post, I'll link to a few training materials and software packages that m
 [ml]: https://dmol.pub/intro.html
 [deepchem]: https://deepchem.io
 [deepchem-tut]: https://github.com/deepchem/deepchem/tree/master/examples/tutorials
+[ai3sd1]: https://www.ai3sd.org/ai3sd-online-seminar-series/
+[ai3sd2]: https://www.ai3sd.org/ai3sd-online-seminar-series/skills-4-scientists-seminar-series-2021/
