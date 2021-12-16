@@ -43,14 +43,14 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Gnina.][gnina] We don't use docking very often to be honest, but do like the ease-of-use and promising accuracy of gnina. David Koes also has an excellent [webinar][gnina-tut] describing its use.
 
-
+[DeepChem.][deepchem] Open-source toolchain demonstrating the use of deep learning in drug discovery, materials science, quantum chemistry, and biology, with [extensive online tutorials][deepchem-tut].
 
 
 ## Miscellaneous
 
 [Learning Scientific Programming with Python.][python] The course textbook for my undergraduate Python classes (Newcastle students, feel free to message me for access to course materials). Textbook should be available through Newcastle University library.
 
-[Machine learning.][ml] I'm only on Chapter 2 so far, but this looks like a really good online textbook on deep learning for molecules and materials, with code examples.
+[Deep Learning for Molecules and Materials.][ml] I'm only on Chapter 2 so far, but this looks like a really good online textbook by Andrew White, with code examples.
 
 [In Silico Medicinal Chemistry: Computational Methods to Support Drug Design.][brown] Book by Nathan Brown on computational tools for drug design. Should be available through Newcastle University library.
 
@@ -91,3 +91,5 @@ In this post, I'll link to a few training materials and software packages that m
 [gnina]: https://github.com/gnina/gnina
 [gnina-tut]: https://www.youtube.com/watch?v=MG3Srzi5kZ0
 [ml]: https://dmol.pub/intro.html
+[deepchem]: https://deepchem.io
+[deepchem-tut]: https://github.com/deepchem/deepchem/tree/master/examples/tutorials
