@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to add a blog post"
+title:  "Using QUBEKit as an API"
 date:   2022-08-03
 ---
 
