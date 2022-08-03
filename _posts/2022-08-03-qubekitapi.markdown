@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to add a blog post"
-date:   2021-05-09
+date:   2022-08-03
 ---
 
 # Welcome!
