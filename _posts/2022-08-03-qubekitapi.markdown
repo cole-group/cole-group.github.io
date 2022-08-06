@@ -1,12 +1,13 @@
 ---
 layout: post
 title:  "Using QUBEKit as an API"
+author: Chris Ringrose
 date:   2022-08-03
 ---
 
 # What is QUBEKit?
 
-
+[QUBEKit][qubekitlink] is a Python package for the derivation of classical molecular mechanics force field parameters from quantum mechanical data. QUBEKit pulls together multiple pre-existing engines, as well as bespoke methods to produce accurate results with minimal user input. QUBEKit aims to avoid fitting to experimental data where possible while also being highly customisable.
 
 
 [QUBEKit][qubekitlink] is also easy to use as an Application Programming Interface (API) for two key reasons: the persistent molecule object and the separated stages. By initialising a molecule from a file or SMILES string, it can then be passed to any of the QUBEKit stages to be operated on. The coordinates can be optimised, bond and angle parameters can be calculated, virtual sites can be added, all in the same way. For example, the following code could be used to fit virtual sites to a molecule, given only a pdb file and some charge data from Chargemol:
