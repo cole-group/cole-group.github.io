@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  ""
+title:  "The Alan Turing Institute Enrichment Scheme"
 author: Rachael Pirie
 date:   2022-08-30
 ---
 
 This year I was lucky enough to be chosen to spend 6 months at the [Alan Turing Institute](https://www.turing.ac.uk/) as an Enrichment student. The primary focus of my PhD has been the development of [new molecular shape similarity methods](https://arxiv.org/abs/2201.04230) for use in Virtual Screening of large databases to find potential new drug candidates. This captures the shape of a molecule with just 9 numbers, which we believed would also be an efficient way of representing the features of a molecule for machine learning. However, as a Chemist by training I didn’t know much about machine learning, so applied for the Enrichment Scheme to learn more.
 
-![](method_flow.png)
+![](/assets/method_flow.png)
 *Overview of the key steps in constructing our in-house descriptor of molecular shape*
 
 # What is the Alan Turing Institute?
 
 The Alan Turing Institute was founded in 2015 as the UK’s national centre for excellence in data science and artificial intelligence. It is named in honour of Alan Turing (23 June 1912 – 7 June 1954), a mathematician and one of the founders of the field of computer science, most famous for his work during the war as a code breaker. The institute, housed in the British Library, brings together researchers from universities across the UK to facilitate collaboration with industry, public and 3rd sector organisations to tackle challenges facing science, society and the economy. 
 
-![](library.jpg)
+![](/assets/library.jpg)
 *The British Library, home to the Alan Turing Institute*
 
 # What is the Turing Enrichment Scheme?
@@ -29,7 +29,7 @@ The opportunity for discussions with researchers from different backgrounds allo
 
 Front View         |  Back View
 :-------------------------:|:-------------------------:
-![](front.png)  |  ![](back.png)
+![](/assets/front.png)  |  ![](/assets/back.png)
 *Example of the snapshot of the front and back of a molecule used for training the Residual network*
 
 Overall, I'd highly recommend an Enrichment placement to any PhD students interested in working with machine learning or data science. Having spent much of my studies working from home (thanks to the COVID-19 pandemic!) it was really reassuring to spend time amongst others who have had a similar experience. The opportunity for discussions with researchers from a wide range of backgrounds allowed me to think about my own work from a new perspective and gave me lots of ideas for the next steps in the project!
