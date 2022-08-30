@@ -1,0 +1,37 @@
+---
+layout: post
+title:  ""
+author: Rachael Pirie
+date:   2022-08-30
+---
+
+This year I was lucky enough to be chosen to spend 6 months at the [Alan Turing Institute](https://www.turing.ac.uk/) as an Enrichment student. The primary focus of my PhD has been the development of [new molecular shape similarity methods](https://arxiv.org/abs/2201.04230) for use in Virtual Screening of large databases to find potential new drug candidates. This captures the shape of a molecule with just 9 numbers, which we believed would also be an efficient way of representing the features of a molecule for machine learning. However, as a Chemist by training I didn’t know much about machine learning, so applied for the Enrichment Scheme to learn more.
+
+![](method_flow.png)
+*Overview of the key steps in constructing our in-house descriptor of molecular shape*
+
+# What is the Alan Turing Institute?
+
+The Alan Turing Institute was founded in 2015 as the UK’s national centre for excellence in data science and artificial intelligence. It is named in honour of Alan Turing (23 June 1912 – 7 June 1954), a mathematician and one of the founders of the field of computer science, most famous for his work during the war as a code breaker. The institute, housed in the British Library, brings together researchers from universities across the UK to facilitate collaboration with industry, public and 3rd sector organisations to tackle challenges facing science, society and the economy. 
+
+![](library.jpg)
+*The British Library, home to the Alan Turing Institute*
+
+# What is the Turing Enrichment Scheme?
+
+The Enrichment Scheme, which began in 2018, gives 2nd and 3rd year PhD students the opportunity to enhance their research by engaging with the community at the Turing. By spending a period away from their home universities students are encouraged to develop independence as a researcher, building collaborations with the Turing fellows and other PhD students and developing new ideas. Students are also encouraged to engage with the training, talks and other activities hosted by the institute. Students can spend 6 months to a year based at Turing HQ in London or can choose to engage remotely with the Turing’s active online community. Applications for the scheme open in winter, with placements starting in the following October. A computer science background is not required, placements are open to any researchers with an interest in using data science/machine learning methods in their work! More information about the scheme can be found [here](https://www.turing.ac.uk/work-turing/studentships/enrichment). 
+
+# My Time at the Turing
+
+Throughout my time at the Turing I met with people working in all sorts of weird and wonderful areas of research which certainly led to some interesting lunchtime debates! The office itself is a lovely space to work. We were very well looked after with free snacks and coffee - ask anyone about the Turing Institute and one of the first things they’ll mention is the coffee tap! I attended courses in Research Data Science and Research Software Engineering to improve my coding skills. These usually run in November and January each year respectively and are open for all to attend. More about the training opportunities available at the Institute can be found [here](https://www.turing.ac.uk/opportunities-turing/skills-turing/learning-turing#opportunities). I also took on a role as one of the “Community Champions”, tasked with organizing social activities for my cohort. This included a well-attended “Lunch and Learn” series where we each took turns presenting our research as well as regular trips to the pub. We also managed to arrange a visit from one of the software engineers at [DeepMind](https://www.deepmind.com/), who kindly provided a training session on some of the libraries they use. 
+
+The opportunity for discussions with researchers from different backgrounds allowed me to think about my own work from a new perspective, and even lead to a small project outwith my original PhD. Working with a friend who’s PhD investigates the generation of images of galaxies from satellite data, we attempted to train a [Deep Residual Learning model](https://arxiv.org/abs/1512.03385) to predict drug activity when trained on a series of snapshot images of the space filling models of molecules (where each atom is represented with a sphere), labelled as active or inactive against the disease under investigation. While this approach proved unsuccessful, as the neural network would ultimately need far more data than is typically available in an academic setting to make meaningful predictions, I still learned a lot from trying something new. Upon returning to Newcastle I have also taken up a project applying the skills I learned while at the Turing. I will be working with real data from the Medicinal Chemistry group and Biosciences Institute to investigate the use of machine learning models trained using [DNA Encoded Libraries](https://cen.acs.org/articles/95/i25/DNA-encoded-libraries-revolutionizing-drug.html) to predict new potential drug candidates from large chemical libraries.
+
+Front View         |  Back View
+:-------------------------:|:-------------------------:
+![](front.png)  |  ![](back.png)
+*Example of the snapshot of the front and back of a molecule used for training the Residual network*
+
+Overall, I'd highly recommend an Enrichment placement to any PhD students interested in working with machine learning or data science. Having spent much of my studies working from home (thanks to the COVID-19 pandemic!) it was really reassuring to spend time amongst others who have had a similar experience. The opportunity for discussions with researchers from a wide range of backgrounds allowed me to think about my own work from a new perspective and gave me lots of ideas for the next steps in the project!
+
+
