@@ -42,6 +42,8 @@ In this post, I'll link to a few training materials and software packages that m
 
 [DeLinker.][delinker] Deep generative models for 3D linker design. We've found this to be very promising in fragment-based design projects.
 
+[FEGrow.][fegrow] Our own open-source molecular builder and free energy preparation workflow. We hope it's useful for building molecules into protein binding pockets, scoring the poses, and outputting structures for free energy calculations, all through a Jupyter notebook. A tutorial is provided.
+
 [Gnina.][gnina] We don't use docking very often to be honest, but do like the ease-of-use and promising accuracy of gnina. David Koes also has an excellent [webinar][gnina-tut] describing its use.
 
 [DeepChem.][deepchem] Open-source toolchain demonstrating the use of deep learning in drug discovery, materials science, quantum chemistry, and biology, with [extensive online tutorials][deepchem-tut].
@@ -96,3 +98,4 @@ In this post, I'll link to a few training materials and software packages that m
 [deepchem-tut]: https://github.com/deepchem/deepchem/tree/master/examples/tutorials
 [ai3sd1]: https://www.ai3sd.org/ai3sd-online-seminar-series/
 [ai3sd2]: https://www.ai3sd.org/ai3sd-online-seminar-series/skills-4-scientists-seminar-series-2021/
+[fegrow]: https://cole-group.github.io/FEgrow/main.html
