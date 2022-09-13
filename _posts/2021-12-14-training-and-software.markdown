@@ -9,7 +9,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 ## Workshops
 
-[CCP-BioSim.][ccpbiosim] Excellent set of training modules and Youtube channel. Subjects include biomolecular dynamics, FESetup, BioSimSpace and Python for biomolecular modelling.
+[CCP-BioSim.][ccpbiosim] (requires log-in) Excellent set of training modules and Youtube channel. Subjects include biomolecular dynamics, FESetup, BioSimSpace and Python for biomolecular modelling.
 
 [RSC Chemical Information and Computer Applications Group.][rsc-cicag] Highly recommended series of webinars on open source tools for chemistry, including cheminformatics, docking (gnina), chimeraX and pymol.
 
