@@ -57,9 +57,11 @@ In this post, I'll link to a few training materials and software packages that m
 
 [In Silico Medicinal Chemistry: Computational Methods to Support Drug Design.][brown] Book by Nathan Brown on computational tools for drug design. Should be available through Newcastle University library.
 
+[Quantum Chemistry.][echem] Set of hands-on quantum chemistry notebooks and exercises from eChem.
 
 
 
+[echem]: https://kthpanor.github.io/echem/docs/intro.html
 [ccpbiosim]: https://www.ccpbiosim.ac.uk/training
 [openff]: https://openforcefield.org
 [openff1]: https://open-forcefield-toolkit.readthedocs.io/en/0.10.6/users/molecule_cookbook.html
