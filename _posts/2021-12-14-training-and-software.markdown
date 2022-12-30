@@ -19,7 +19,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [The Alan Turing Institute][turing] offers online [Introduction to Research Data Science][turing1] ([github repo][turing-github1]) and [Software Engineering][turing2] ([github repo][turing-github2]) courses.
 
-[Molecular Software Sciences Institute.][molssi] Highly recommended workshops on topics including programming and molecular modelling. 
+[Molecular Software Sciences Institute.][molssi] Highly recommended workshops on topics including programming and molecular modelling. See in particular the workshop on [best practices in software development][molssi2].
 
 [The AI3SD network][ai3sd1] have kindly made available a series of recorded research seminars, as well as a [Skills 4 Scientists][ai3sd2] series (including research data management, python, version control, ethics, and career development).
 
@@ -101,3 +101,4 @@ In this post, I'll link to a few training materials and software packages that m
 [ai3sd1]: https://www.ai3sd.org/ai3sd-online-seminar-series/
 [ai3sd2]: https://www.ai3sd.org/ai3sd-online-seminar-series/skills-4-scientists-seminar-series-2021/
 [fegrow]: https://cole-group.github.io/FEgrow/main.html
+[molssi2]: https://molssi.org/molssis-best-practices/
