@@ -59,6 +59,8 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Quantum Chemistry.][echem] Set of hands-on quantum chemistry notebooks and exercises from eChem.
 
+Writing. David Mobley has some [nice tips][mobleylab] on writing style guides, and he also pointed us to [this paper][artofwriting] for a longer overview.
+
 
 
 [echem]: https://kthpanor.github.io/echem/docs/intro.html
@@ -102,3 +104,5 @@ In this post, I'll link to a few training materials and software packages that m
 [ai3sd2]: https://www.ai3sd.org/ai3sd-online-seminar-series/skills-4-scientists-seminar-series-2021/
 [fegrow]: https://cole-group.github.io/FEgrow/main.html
 [molssi2]: https://molssi.org/molssis-best-practices/
+[mobleylab]: https://github.com/MobleyLab/Training/tree/main/Writing
+[artofwriting]: https://doi.org/10.1002/pro.514
