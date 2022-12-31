@@ -59,7 +59,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Quantum Chemistry.][echem] Set of hands-on quantum chemistry notebooks and exercises from eChem.
 
-Writing. David Mobley has some [nice tips][mobleylab] on writing style guides, and he also pointed us to [this paper][artofwriting] for a longer overview.
+Writing. David Mobley has some [nice tips][mobleylab] on academic writing style, and he also pointed us to [this paper][artofwriting] for a more detailed overview.
 
 
 
