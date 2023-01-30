@@ -53,6 +53,8 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Learning Scientific Programming with Python.][python] The course textbook for my undergraduate Python classes (Newcastle students, feel free to message me for access to course materials). Textbook should be available through Newcastle University library.
 
+[Linux Command Line for Beginners.][linux] Feel free to send me other linux tutorials that you find useful.
+
 [Deep Learning for Molecules and Materials.][ml] I'm only on Chapter 2 so far, but this looks like a really good online textbook by Andrew White, with code examples.
 
 [In Silico Medicinal Chemistry: Computational Methods to Support Drug Design.][brown] Book by Nathan Brown on computational tools for drug design. Should be available through Newcastle University library.
@@ -62,7 +64,7 @@ In this post, I'll link to a few training materials and software packages that m
 Writing. David Mobley has some [nice tips][mobleylab] on academic writing style, and he also pointed us to [this paper][artofwriting] for a more detailed overview.
 
 
-
+[linux]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 [echem]: https://kthpanor.github.io/echem/docs/intro.html
 [ccpbiosim]: https://www.ccpbiosim.ac.uk/training
 [openff]: https://openforcefield.org
