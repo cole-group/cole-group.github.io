@@ -23,6 +23,8 @@ In this post, I'll link to a few training materials and software packages that m
 
 [The AI3SD network][ai3sd1] have kindly made available a series of recorded research seminars, as well as a [Skills 4 Scientists][ai3sd2] series (including research data management, python, version control, ethics, and career development).
 
+[Scientific Computing From Scratch.][scotch] A summer bootcamp on scientific computing for beginners with Python and Pytorch organized by Pratyush Tiwary.
+
 
 ## Research Software
 
@@ -30,7 +32,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Open Force Field.][openff] We're very happy to be working with the Open Force Field initiative, and we make extensive use of their software infrastructure in our work. A good place to start is with the [documentation examples][openff1] on building and interacting with molecules, and a [set of notebooks][openff2], which show how to use the toolkit to parameterise a system and run a short simulation in OpenMM.
 
-[OpenMM.][openmm] All of our atomistic molecular dynamics simulations are performed through OpenMM. A few tutorials are available [here][openmm-tut], with more to follow I believe.
+[OpenMM.][openmm] All of our atomistic molecular dynamics simulations are performed through OpenMM. A cookbook demonstrating a few protocols is available [here][openmm-tut]. Additionally, teaching materials from a recent workshop can be found [here][openmm-summschool], and tutorials demonstrating the OpenMM toolkit on the Google Colab framework from the paper ["Making it rain: Cloud-based molecular simulations for everyone"][making-it-rain-paper] can be found [here][making-it-rain].
 
 [BioSimSpace / SOMD.][bss] Python framework for biomolecular simulation, includes a [set of tutorials][bss-tut] for common simulation types. [Our own tutorials][somd-qube] written with Julien Michel's lab show how to use SOMD in protein-ligand binding and hydration free energy calculations with different force fields.
 
@@ -87,7 +89,9 @@ Writing. David Mobley has some [nice tips][mobleylab] on academic writing style,
 [molssi]: http://education.molssi.org/resources.html#programming
 [qubekit]: https://github.com/qubekit/QUBEKit
 [openmm]: https://openmm.org
-[openmm-tut]: https://openmm.org/tutorials
+[openmm-tut]: https://openmm.github.io/openmm-cookbook/latest/cookbook
+[openmm-summschool]: https://github.com/openmm/openmm_workshop_july2023
+[making-it-rain]: https://github.com/pablo-arantes/making-it-rain
 [onetep]: https://www.onetep.org/Main/HomePage
 [onetep-tut]: https://www.onetep.org/Main/Tutorials
 [rdkit]: https://www.rdkit.org/docs/index.html
@@ -108,3 +112,5 @@ Writing. David Mobley has some [nice tips][mobleylab] on academic writing style,
 [molssi2]: https://molssi.org/molssis-best-practices/
 [mobleylab]: https://github.com/MobleyLab/Training/tree/main/Writing
 [artofwriting]: https://doi.org/10.1002/pro.514
+[scotch]: https://scotch.wangyq.net
+
