@@ -92,6 +92,7 @@ Writing. David Mobley has some [nice tips][mobleylab] on academic writing style,
 [openmm-tut]: https://openmm.github.io/openmm-cookbook/latest/cookbook
 [openmm-summschool]: https://github.com/openmm/openmm_workshop_july2023
 [making-it-rain]: https://github.com/pablo-arantes/making-it-rain
+[making-it-rain-paper]: https://doi.org/10.1021/acs.jcim.1c00998
 [onetep]: https://www.onetep.org/Main/HomePage
 [onetep-tut]: https://www.onetep.org/Main/Tutorials
 [rdkit]: https://www.rdkit.org/docs/index.html
