@@ -30,7 +30,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 [QUBEKit.][qubekit] Our own Quantum Mechanical Bespoke Force Field Derivation Toolkit, by Chris Ringrose and Josh Horton. More tutorials coming soon, watch this space!
 
-[Open Force Field.][openff] We're very happy to be working with the Open Force Field initiative, and we make extensive use of their software infrastructure in our work. A good place to start is with the [documentation examples][openff1] on building and interacting with molecules, and a [set of notebooks][openff2], which show how to use the toolkit to parameterise a system and run a short simulation in OpenMM.
+[Open Force Field.][openff] We're very happy to be working with the Open Force Field initiative, and we make extensive use of their software infrastructure in our work. A good place to start is with the [documentation examples][openff1] on building and interacting with molecules, and a [set of notebooks][openff2], which show how to use the toolkit to parameterise a system and run a short simulation in OpenMM. The new [examples page][openff-examples] assembles examples drawn from throughout the OpenFF stack.
 
 [OpenMM.][openmm] All of our atomistic molecular dynamics simulations are performed through OpenMM. A cookbook demonstrating a few protocols is available [here][openmm-tut]. Additionally, teaching materials from a recent workshop can be found [here][openmm-summschool], and tutorials demonstrating the OpenMM toolkit on the Google Colab framework from the paper ["Making it rain: Cloud-based molecular simulations for everyone"][making-it-rain-paper] can be found [here][making-it-rain].
 
@@ -72,6 +72,7 @@ Writing. David Mobley has some [nice tips][mobleylab] on academic writing style,
 [openff]: https://openforcefield.org
 [openff1]: https://open-forcefield-toolkit.readthedocs.io/en/0.10.6/users/molecule_cookbook.html
 [openff2]: https://github.com/openforcefield/openff-toolkit/tree/0.10.6/examples#examples-using-smirnoff-with-the-toolkit
+[openff-examples]: https://docs.openforcefield.org/en/latest/examples.html
 [bespokefit]: https://www.youtube.com/watch?v=xQ8pnYcmWSU
 [bespokefit-github]: https://github.com/openforcefield/openff-bespokefit
 [teachopencadd]: https://projects.volkamerlab.org/teachopencadd/
