@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Training & Software Resources"
-date:   2021-12-14
+date:   2023-07-31
 ---
 
 In this post, I'll link to a few training materials and software packages that might be useful to new starters in our group (or elsewhere). I intend for this to be updated regularly, so please feel free to suggest changes or additions, particularly if links break. A big thank you to everyone that has made these resources available online, we find them invaluable!
