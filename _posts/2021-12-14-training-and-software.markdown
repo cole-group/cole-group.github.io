@@ -61,6 +61,8 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Linux Command Line for Beginners.][linux] Feel free to send me other linux tutorials that you find useful.
 
+[Getting started with Conda.][conda] Official tutorial for getting started with Conda environment and package management. See also the [pip][pip] Python package manager.
+
 [Deep Learning for Molecules and Materials.][ml] I'm only on Chapter 2 so far, but this looks like a really good online textbook by Andrew White, with code examples.
 
 [Papers for molecular design using deep learning.][aspirin-code] Collection of literature related to Generative AI and Deep Learning for molecular/drug design and molecular conformation generation.
@@ -74,6 +76,8 @@ Writing. David Mobley has some [nice tips][mobleylab] on academic writing style,
 [Narrative CVs.][cvs] Collection of resources on writing a narrative CV.
 
 
+[pip]: https://pip.pypa.io/en/stable/getting-started/
+[conda]: https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python
 [caddvault]: https://drugbud-suite.github.io/CADD_Vault/
 [aspirin-code]: https://github.com/AspirinCode/papers-for-molecular-design-using-DL
 [walters]: https://github.com/PatWalters/practical_cheminformatics_tutorials
