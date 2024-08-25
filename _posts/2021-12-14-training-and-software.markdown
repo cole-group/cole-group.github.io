@@ -61,6 +61,8 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Deep Learning for Molecules and Materials.][ml] I'm only on Chapter 2 so far, but this looks like a really good online textbook by Andrew White, with code examples.
 
+[Papers for molecular design using deep learning.][aspirin-code] Collection of literature related to Generative AI and Deep Learning for molecular/drug design and molecular conformation generation.
+
 [In Silico Medicinal Chemistry: Computational Methods to Support Drug Design.][brown] Book by Nathan Brown on computational tools for drug design. Should be available through Newcastle University library.
 
 [Quantum Chemistry.][echem] Set of hands-on quantum chemistry notebooks and exercises from eChem.
@@ -70,6 +72,7 @@ Writing. David Mobley has some [nice tips][mobleylab] on academic writing style,
 [Narrative CVs.][cvs] Collection of resources on writing a narrative CV.
 
 
+[aspirin-code]: https://github.com/AspirinCode/papers-for-molecular-design-using-DL
 [walters]: https://github.com/PatWalters/practical_cheminformatics_tutorials
 [cvs]: https://padlet.com/myconsultants/narrative-cv-resources-aad8v57n4gi0m1ds
 [linux]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
