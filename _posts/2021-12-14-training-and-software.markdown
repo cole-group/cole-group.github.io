@@ -52,6 +52,8 @@ In this post, I'll link to a few training materials and software packages that m
 
 [DeepChem.][deepchem] Open-source toolchain demonstrating the use of deep learning in drug discovery, materials science, quantum chemistry, and biology, with [extensive online tutorials][deepchem-tut].
 
+[CADD vault.][caddvault] A comprehensive repository dedicated to sharing resources, software tools, and knowledge in the field of computer-aided drug design.
+
 
 ## Miscellaneous
 
@@ -72,6 +74,7 @@ Writing. David Mobley has some [nice tips][mobleylab] on academic writing style,
 [Narrative CVs.][cvs] Collection of resources on writing a narrative CV.
 
 
+[caddvault]: https://drugbud-suite.github.io/CADD_Vault/
 [aspirin-code]: https://github.com/AspirinCode/papers-for-molecular-design-using-DL
 [walters]: https://github.com/PatWalters/practical_cheminformatics_tutorials
 [cvs]: https://padlet.com/myconsultants/narrative-cv-resources-aad8v57n4gi0m1ds
