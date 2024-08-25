@@ -68,7 +68,7 @@ Writing. David Mobley has some [nice tips][mobleylab] on academic writing style,
 [Narrative CVs.][cvs] Collection of resources on writing a narrative CV.
 
 
-[cvs][https://padlet.com/myconsultants/narrative-cv-resources-aad8v57n4gi0m1ds]
+[cvs]: https://padlet.com/myconsultants/narrative-cv-resources-aad8v57n4gi0m1ds
 [linux]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 [echem]: https://kthpanor.github.io/echem/docs/intro.html
 [ccpbiosim]: https://www.ccpbiosim.ac.uk/training
