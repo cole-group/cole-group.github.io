@@ -17,6 +17,8 @@ In this post, I'll link to a few training materials and software packages that m
 
 [TeachOpenCADD.][teachopencadd] Really useful set of talktorials on the use of open source cheminformatics tools for computer-aided drug design.
 
+[Practical cheminformatics.][walters] A set of Jupyter notebooks by Pat Walters for learning Cheminformatics.
+
 [The Alan Turing Institute][turing] offers online [Introduction to Research Data Science][turing1] ([github repo][turing-github1]) and [Software Engineering][turing2] ([github repo][turing-github2]) courses.
 
 [Molecular Software Sciences Institute.][molssi] Highly recommended workshops on topics including programming and molecular modelling. See in particular the workshop on [best practices in software development][molssi2].
@@ -68,6 +70,7 @@ Writing. David Mobley has some [nice tips][mobleylab] on academic writing style,
 [Narrative CVs.][cvs] Collection of resources on writing a narrative CV.
 
 
+[walters]: https://github.com/PatWalters/practical_cheminformatics_tutorials
 [cvs]: https://padlet.com/myconsultants/narrative-cv-resources-aad8v57n4gi0m1ds
 [linux]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 [echem]: https://kthpanor.github.io/echem/docs/intro.html
