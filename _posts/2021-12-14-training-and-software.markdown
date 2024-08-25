@@ -65,9 +65,10 @@ In this post, I'll link to a few training materials and software packages that m
 
 Writing. David Mobley has some [nice tips][mobleylab] on academic writing style, and he also pointed us to [this paper][artofwriting] for a more detailed overview.
 
-[Narrative CVs.][https://padlet.com/myconsultants/narrative-cv-resources-aad8v57n4gi0m1ds] Collection of resources on writing a narrative CV.
+[Narrative CVs.][cvs] Collection of resources on writing a narrative CV.
 
 
+[cvs][https://padlet.com/myconsultants/narrative-cv-resources-aad8v57n4gi0m1ds]
 [linux]: https://ubuntu.com/tutorials/command-line-for-beginners#1-overview
 [echem]: https://kthpanor.github.io/echem/docs/intro.html
 [ccpbiosim]: https://www.ccpbiosim.ac.uk/training
