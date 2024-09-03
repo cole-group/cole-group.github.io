@@ -1,0 +1,86 @@
+---
+layout: post
+title:  "CACHE Challenge"
+author: Ben Cree & Daniel Cole
+date:   2024-09-10
+---
+
+Recently a team of us from Newcastle University were fortunate enough
+to enter the second Critical Assessment of Computational Hit-Finding
+Experiments (CACHE) Challenge. The full team comprised: Ben Cree,
+Rachael Pirie, Mat Bieniek, Josh Horton and Daniel Cole (computational
+chemistry), Roly Armstrong and Kate Harris (medicinal chemistry) and
+Natalie Tatum (structural biology).
+
+
+# What is CACHE?
+
+The CACHE challenges are a set of prospective benchmarking exercises
+on computational hit-finding predictions, led by researchers at the
+Structural Genomics Consortium. Every few months an open hit finding
+exercise is advertised with the goal of identifying new chemical
+starting points against biologically relevant targets. By purchasing
+and testing the compounds, the organisers are able to benchmark the
+effectiveness of new computational methods. Each challenge has two hit
+finding cycles to enable elaboration of first round hits.
+
+More details may be found
+[online](https://cache-challenge.org/what-cache) and in this [review
+paper](https://www.nature.com/articles/s41570-022-00363-z).
+
+We are hugely grateful to the CACHE organisers for allowing us to
+enter, and for the experimental data shown here (any errors are our
+own!).
+
+
+
+# What is the target in challenge 2?
+
+![](/assets/figure.png)
+*Target and fragments, include water map*
+
+
+
+# Design Strategy
+
+Explain FEgrow and general 5-membered ring showing three vectors. End with best design.
+
+![](/assets/figure.png)
+*Example compound designs with scores*
+
+
+
+
+
+# Synthesis and Enamine similarity
+
+Show synthesised compounds and examples of similarity searches that correlate with design strategies (also show top scoring and hit).
+
+
+![](/assets/figure.png)
+*Example enamines*
+
+
+
+# Round 1 hit and free energy calculations
+
+Get hit, elaborate hit, test designs with FEP, suggest round 2.
+
+
+![](/assets/figure.png)
+*Round 1 hit and free energy*
+
+
+# Round 2 hits
+
+Matches FEP prediction.
+
+
+![](/assets/figure.png)
+*Round 2 hit data*
+
+
+
+# Conclusions and future work
+
+Summarise ranking, what we learned (see FEgrow-AL)
