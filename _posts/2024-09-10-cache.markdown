@@ -2,7 +2,7 @@
 layout: post
 title:  "CACHE Challenge"
 author: Ben Cree & Daniel Cole
-date:   2024-09-10
+date:   2024-09-04
 ---
 
 Recently a team of us from Newcastle University were fortunate enough
@@ -17,7 +17,7 @@ Natalie Tatum (structural biology).
 
 The CACHE challenges are a set of prospective benchmarking exercises
 on computational hit-finding predictions, led by researchers at the
-Structural Genomics Consortium. Every few months an open hit finding
+[Structural Genomics Consortium](https://www.thesgc.org). Every few months an open hit finding
 exercise is advertised with the goal of identifying new chemical
 starting points against biologically relevant targets. By purchasing
 and testing the compounds, the organisers are able to benchmark the
