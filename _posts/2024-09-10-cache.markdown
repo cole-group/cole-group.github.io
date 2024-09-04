@@ -8,9 +8,9 @@ date:   2024-09-04
 Recently a team of us from Newcastle University were fortunate enough
 to enter the second Critical Assessment of Computational Hit-Finding
 Experiments (CACHE) Challenge. The full team comprised: Ben Cree,
-Rachael Pirie, Mat Bieniek, Josh Horton and Daniel Cole (computational
-chemistry), Roly Armstrong and Kate Harris (medicinal chemistry) and
-Natalie Tatum (structural biology).
+Rachael Pirie, Mat Bieniek, Josh Horton and [Daniel Cole](https://www.ncl.ac.uk/nes/people/profile/danielcole.html) (computational
+chemistry), [Roly Armstrong](https://www.ncl.ac.uk/nes/people/profile/rolyarmstrong.html) and [Kate Harris](https://www.ncl.ac.uk/cancer/people/profile/kateharris.html) (medicinal chemistry) and
+[Natalie Tatum](https://www.ncl.ac.uk/medical-sciences/people/profile/natalietatum.html) (structural biology).
 
 
 # What is CACHE?
