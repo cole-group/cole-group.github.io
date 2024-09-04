@@ -103,14 +103,14 @@ out of 23 participants.
 More importantly, the opportunity to get involved in a prospective hit-finding campaign taught us 
 a lot about what worked and what needed improvement in our workflows:
 
-* Manual growth with FEgrow is useful for idea generation, but automating searches are needed on a tight deadline.
+* Manual growth with FEgrow is useful for idea generation, but automated searches are needed on a tight deadline.
 * More accurate scoring of binding poses is always needed (everything we suggested was predicted to be low micromolar or better).
 * Free energy calculations proved to be useful here in round 2, but we need more compute resource (or faster FE calculations) to drive the design process.
 * The similarity between our compound designs and those available in chemical databases tended to be low, although the purchased compounds did generally recover many of the binding modes that we were targeting.
 * Usually we work with multiple rounds of structural biology, and having that extra information after round 1 would (we think) improve hit rate a lot.
 * Regular input from experienced chemists and biologists is crucial to keep our designs on track (thanks Roly, Kate and Natalie!).
 
-Indeed, we have subsequently made a number of improvements to FEgrow to enable active-learning driven
+Indeed, based on this experience, we have subsequently made a number of improvements to FEgrow to enable active-learning driven
 compound design, with custom scoring functions and automated seeding of molecules available from on-demand chemical libraries 
 (see our recent [preprint](https://doi.org/10.26434/chemrxiv-2024-xczfb)).
 
