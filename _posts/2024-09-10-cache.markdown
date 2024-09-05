@@ -56,7 +56,16 @@ water map that was useful for identifying potential polar contacts.
 
 # Design Strategy
 
-Explain FEgrow and general 5-membered ring showing three vectors. End with best design.
+The basis for our design approach was fragment growing, pursued using our open-source [FEgrow](https://github.com/cole-group/FEgrow) software package.
+For a given ligand core and growth vector, FEgrow allows the user to grow and score functional groups in the context of the protein binding pocket. 
+FEgrow enumerates the bioactive conformations of the grown functional group, discards those that clash with the protein, and optimises the remainder 
+using hybrid machine learning / molecular mechanics potential energy functions. In particular, the [ANI machine learning potential](https://doi.org/10.1039/C6SC05720A) is used to describe the energetics of the ligand, which is significantly more reliable than the use of molecular mechanics force fields that are commonly used for refinement. 
+Low energy structures are scored using the [gnina](https://github.com/gnina/gnina) convolutional neural network scoring function.
+Optionally, output structures are usually suitable for input to free energy calculations, but in round 1 due to 
+time pressures we relied on the docking score alone.
+
+
+Show general 5-membered ring showing three vectors. End with best design.
 
 ![](/assets/figure.png)
 *Example compound designs with scores*
