@@ -106,7 +106,7 @@ Matches FEP prediction.
 # What we learned
 
 Our combined normalised sum of all scores from members of the hit evaluation comittee,
-based on biophysical properties as well as medicinal chemistry evaluation, placed us 9th 
+based on biophysical properties as well as medicinal chemistry evaluation, placed us **XXXXX** 
 out of 23 participants.
 
 More importantly, the opportunity to get involved in a prospective hit-finding campaign taught us 
