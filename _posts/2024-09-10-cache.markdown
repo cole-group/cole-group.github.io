@@ -49,7 +49,7 @@ far from the others to be linked or merged.
 In addition, we used structural waters collected from around 60 structures of NSP13 close to the initial fragments, producing a
 water map that was useful for identifying potential polar contacts.
 
-![](/assets/cache/fig1.png)
+![](/assets/cache-figs/fig1.png)
 *Target and fragments, include water map*
 
 
