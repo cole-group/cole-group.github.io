@@ -44,12 +44,12 @@ highly conserved nature of the site across coronaviruses.
 
 The crystal structure of NSP13 has been determined in complex with fragments bound in the 
 evolutionary conserved RNA-binding site ([5RLH](https://www.rcsb.org/structure/5rlh), [5RLZ](https://www.rcsb.org/structure/5rlz), and [5RMM](https://www.rcsb.org/structure/5rmm)). We judged that a fourth fragment ([5RML](https://www.rcsb.org/structure/5rml)) was too
-far from the other to be linked or merged.
+far from the others to be linked or merged.
 
 In addition, we used structural waters collected from around 60 structures of NSP13 close to the initial fragments, producing a
 water map that was useful for identifying potential polar contacts.
 
-![](/assets/figure.png)
+![](/assets/cache/fig1.png)
 *Target and fragments, include water map*
 
 
