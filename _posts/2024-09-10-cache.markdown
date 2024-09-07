@@ -51,6 +51,7 @@ In addition, we used structural waters collected from around 60 structures of NS
 
 ![](/assets/cache-figs/fig1.png)
 
+*Crystallographic bound fragments and water map*
 
 
 # Design Strategy
@@ -66,7 +67,8 @@ time pressures we relied on the docking score alone.
 
 Show general 5-membered ring showing three vectors. End with best design.
 
-![](/assets/figure.png)
+![](/assets/cache-figs/fig2.png)
+
 *Example compound designs with scores*
 
 
