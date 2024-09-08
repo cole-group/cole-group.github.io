@@ -75,33 +75,35 @@ score (1.4 &mu;M).
 
 ![](/assets/cache-figs/fig2.png)
 
-*(left) Example compound design and (inset) definition of growth vectors. (right) Example 1.4 &mu;M compound 
-overlaid on starting fragments.*
+*(left) Example compound design and (inset) definition of growth vectors. (right) Example 1.4 &mu;M compound (grey)
+overlaid on starting fragments (yellow).*
 
 
 
-# Synthesis and Enamine similarity
+# Round 1 Synthesis and Enamine Similarity Search
 
-Show synthesised compounds and examples of similarity searches that correlate with design strategies (also show top scoring and hit).
+Following the design stage, we submitted around 100 compounds for experimental testing.
+Compounds were selected from similarity searches of the [Enamine database](https://enaminestore.com/search).
+The catalogue was filtered by Tanimoto similarity between the Morgan fingerprints of the database molecules 
+and the designed hits, and then by additional physical properties (such as molecular weight).
+Finally, the the purchasable compounds were re-docked using the [gnina](https://github.com/gnina/gnina) software.
 
+Some compounds followed our general design strategy (e.g. see Figure below, left), following re-docking,
+other adopted alternative binding modes, such as sitting in the R<sub>2</sub> pocket (e.g. see Figure below, centre).
+We attempted to put through a varied selection of each for purchase.
+
+To more directly test our fragment growing strategy, the medicinal chemistry team also synthesised four compounds in-house
+and submitted them for testing.
 
 ![](/assets/figure.png)
-*Example enamines*
+
+*(left) Top-scoring compound according to the docking score. (centre) Docking pose of our Round 1 hit compound. (right) 
+Compounds synthesised in-house.*
 
 
+# Round 2 Model Refinement
 
-# Round 1 hit and free energy calculations
-
-Get hit, elaborate hit, test designs with FEP, suggest round 2.
-
-
-![](/assets/figure.png)
-*Round 1 hit and free energy*
-
-
-# Round 2 hits
-
-Matches FEP prediction.
+Matches FEP prediction. Also assessing other data.
 
 
 ![](/assets/figure.png)
