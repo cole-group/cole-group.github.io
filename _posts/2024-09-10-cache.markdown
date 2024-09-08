@@ -71,7 +71,7 @@ as well as various 5-membered rings and carboxylic acid bioisosteres.
 
 In particular, the R<sub>1</sub> pocket, which is occupied by a phenyl group in 5RMM, seemed to give opportunities for growth, and the R<sub>3</sub> vector allowed us to merge designs with the 5RLH fragment. This led to designs like the 
 one shown below (right), which recapitulates many of the fragment interactions and has a good gnina docking
-score (1.4 &mu M).
+score (1.4 &mu;M).
 
 ![](/assets/cache-figs/fig2.png)
 
