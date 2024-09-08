@@ -66,7 +66,7 @@ time pressures we relied on the docking score alone.
 
 Fragments 5RMM and 5RLZ shared a common binding mode with a carboxylate group occupying one of the identified water
 clusters. A 5-membered ring seemed to give three promising growth vectors (see Figure below), and so we 
-used FEgrow to investigate a range of linkers and functional groups at the $R_{1}$, $R_{2}$ and $R_{3}$ positions,
+used FEgrow to investigate a range of linkers and functional groups at the R<sub>1</sub>, $R_{2}$ and $R_{3}$ positions,
 as well as various 5-membered rings and carboxylic acid bioisosteres. 
 
 In particular, the $R_{1}$ pocket, which is occupied by a phenyl group in 5RMM, seemed to give opportunities for growth, and the $R_{3}$ vector allowed us to merge designs with the 5RLH fragment. This led to designs like the 
