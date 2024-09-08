@@ -75,7 +75,7 @@ score (1.4 &mu;M).
 
 ![](/assets/cache-figs/fig2.png)
 
-*(left) Example compound design and (inset) definition of growth vectors. (right) Example 1.4 $\mu$M compound 
+*(left) Example compound design and (inset) definition of growth vectors. (right) Example 1.4 &mu;M compound 
 overlaid on starting fragments.*
 
 
