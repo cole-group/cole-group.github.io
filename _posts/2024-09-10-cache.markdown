@@ -16,7 +16,7 @@ chemistry), [Roly Armstrong](https://www.ncl.ac.uk/nes/people/profile/rolyarmstr
 # What is CACHE?
 
 The CACHE challenges are a set of prospective benchmarking exercises
-on computational hit-finding predictions, led by researchers at the
+of computational hit-finding predictions, led by researchers at the
 [Structural Genomics Consortium](https://www.thesgc.org). Every few months an open hit finding
 exercise is advertised with the goal of identifying new chemical
 starting points against biologically relevant targets. By purchasing
@@ -64,7 +64,7 @@ Low energy structures are scored using the [gnina](https://github.com/gnina/gnin
 Optionally, output structures are usually suitable for input to free energy calculations, but in round 1 due to 
 time pressures we relied on the docking score alone.
 
-Fragments 5RMM and 5RLZ shared a common binding mode with a carboxylate group occupying one of the identified water
+Fragments 5RMM and 5RLZ share a common binding mode with a carboxylate group occupying one of the identified water
 clusters. A 5-membered ring seemed to give three promising growth vectors (see Figure below), and so we 
 used FEgrow to investigate a range of linkers and functional groups at the R<sub>1</sub>, R<sub>2</sub> and R<sub>3</sub> positions,
 as well as various 5-membered rings and carboxylic acid bioisosteres. 
@@ -85,12 +85,12 @@ overlaid on starting fragments (yellow).*
 Following the design stage, we submitted around 100 compounds for experimental testing.
 Compounds were selected from similarity searches of the [Enamine database](https://enaminestore.com/search).
 The catalogue was filtered by Tanimoto similarity between the Morgan fingerprints of the database molecules 
-and the designed hits, and then by additional physical properties (such as molecular weight).
+and our designed hits, and then by additional physical properties (such as molecular weight).
 Finally, the the purchasable compounds were re-docked using the [gnina](https://github.com/gnina/gnina) software.
 
 Some compounds followed our general design strategy (e.g. see Figure below, left), following re-docking,
-other adopted alternative binding modes, such as sitting in the R<sub>2</sub> pocket (e.g. see Figure below, centre).
-We attempted to put through a varied selection of each for purchase.
+others adopted alternative binding modes, such as sitting in the R<sub>2</sub> pocket (e.g. see Figure below, centre).
+We attempted to choose a varied selection of each for purchase.
 
 To more directly test our fragment growing strategy, the medicinal chemistry team also synthesised four compounds in-house
 and submitted them for testing.
@@ -104,10 +104,10 @@ Compounds synthesised in-house.*
 # Round 2 Model Refinement
 
 Compounds were tested by the challenge organisers for aggregation and solubility, and for binding to NSP13 using a SPR assay.
-Based on these properties, one compound was selected for advancement to round 2 (in total, **XXX** compounds selected by **XXX**
+Based on these properties, one of our compounds was selected for advancement to round 2 (in total, **XXX** compounds selected by **XXX**
 participants progressed).
 
-A round of hit expansion was carried out via a substructure search of the Enamine REAL database, based on our hit compound.
+We carried out a further round of hit expansion via a substructure search of the Enamine REAL database, based on our hit compound.
 The resulting library of compounds was re-built into the NSP13 binding pocket using FEgrow, and scored.
 
 A series of eight promising analogues was further investigated via free energy calculations using the [BioSimSpace](https://biosimspace.openbiosim.org) 
@@ -142,6 +142,6 @@ a lot about what worked and what needed improvement in our workflows:
 
 Indeed, based on this experience, we have subsequently made a number of improvements to FEgrow to enable active-learning driven
 compound design, with custom scoring functions and automated seeding of molecules available from on-demand chemical libraries 
-(see our recent [preprint](https://doi.org/10.26434/chemrxiv-2024-xczfb)).
+(check out our recent [preprint](https://doi.org/10.26434/chemrxiv-2024-xczfb) for details).
 
 
