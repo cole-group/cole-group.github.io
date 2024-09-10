@@ -2,7 +2,7 @@
 layout: post
 title:  "CACHE Challenge"
 author: Ben Cree & Daniel Cole
-date:   2024-09-04
+date:   2024-09-10
 ---
 
 Recently a team of us from Newcastle University were fortunate enough
@@ -95,17 +95,15 @@ We attempted to choose a varied selection of each for purchase.
 To more directly test our fragment growing strategy, the medicinal chemistry team also synthesised four compounds in-house
 and submitted them for testing.
 
-![](/assets/figure.png)
+![](/assets/cache-figs/fig3.png)
 
-*(left) Top-scoring compound according to the docking score. (centre) Docking pose of our Round 1 hit compound. (right) 
-Compounds synthesised in-house.*
+*(left) Top-scoring compound according to the docking score. (centre) Docking pose of our Round 1 hit compound. (right) Compounds synthesised in-house.*
 
 
 # Round 2 Model Refinement
 
 Compounds were tested by the challenge organisers for aggregation and solubility, and for binding to NSP13 using a SPR assay.
-Based on these properties, one of our compounds was selected for advancement to round 2 (in total, **XXX** compounds selected by **XXX**
-participants progressed).
+Based on these properties, one of our compounds was selected for advancement to round 2 (in total, 46 compounds selected by 18 participants progressed).
 
 We carried out a further round of hit expansion via a substructure search of the Enamine REAL database, based on our hit compound.
 The resulting library of compounds was re-built into the NSP13 binding pocket using FEgrow, and scored.
@@ -114,8 +112,8 @@ A series of eight promising analogues was further investigated via free energy c
 package. Of those, the majority had similar predicted binding free energies as the original hit, except for one dioxolane
 analogue (see below), which showed promise. Pleasingly, a similar compound was verified experimentally (see data below). 
 
-Overall, **XX** of our compounds in round 2, including the re-supplied parent molecule, showed a binding 
-response by SPR with a tendency to reach saturation (measured K<sub>D</sub> between **XX** and **XX**).
+Overall, four of our compounds in round 2, including the re-supplied parent molecule, showed a binding 
+response by SPR with a tendency to reach saturation (measured K<sub>D</sub> between 49 and 124 &mu;M).
 
 ![](/assets/figure.png)
 
@@ -126,8 +124,8 @@ response by SPR with a tendency to reach saturation (measured K<sub>D</sub> betw
 # What we learned
 
 Our combined normalised sum of all scores from members of the hit evaluation comittee,
-based on biophysical properties as well as medicinal chemistry evaluation, placed us **XXXXX** 
-out of 23 participants. Also of note, we finished **XX** on a secondary evaluation metric, in which 
+based on biophysical properties as well as medicinal chemistry evaluation, placed us 9th 
+out of 22 participants (see [here](https://cache-challenge.org/results-cache-challenge-2)). Also of note, we finished first on a secondary evaluation metric, in which 
 we attempted to classify a merged list of all participants' selections as binders/non-binders.
 
 More importantly, the opportunity to get involved in a prospective hit-finding campaign taught us 
