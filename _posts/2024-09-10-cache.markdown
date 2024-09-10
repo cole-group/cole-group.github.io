@@ -115,7 +115,7 @@ analogue (see below), which showed promise. Pleasingly, a similar compound was v
 Overall, four of our compounds in round 2, including the re-supplied parent molecule, showed a binding 
 response by SPR with a tendency to reach saturation (measured K<sub>D</sub> between 49 and 124 &mu;M).
 
-![](/assets/figure.png)
+![](/assets/cache-figs/fig4.png)
 
 *Round 2 free energy data and example experimental confirmation.*
 
