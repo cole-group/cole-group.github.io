@@ -16,7 +16,8 @@ chemistry), [Roly Armstrong](https://www.ncl.ac.uk/nes/people/profile/rolyarmstr
 # What is CACHE?
 
 The CACHE challenges are a set of prospective benchmarking exercises
-of computational hit-finding predictions, led by researchers at the
+of computational hit-finding predictions, organised by [Conscience](https://conscience.ca) 
+in collaboration with researchers at the
 [Structural Genomics Consortium](https://www.thesgc.org). Every few months an open hit finding
 exercise is advertised with the goal of identifying new chemical
 starting points against biologically relevant targets. By purchasing
@@ -25,7 +26,8 @@ effectiveness of new computational methods. Each challenge has two hit
 finding cycles to enable elaboration of first round hits.
 
 More details may be found
-[online](https://cache-challenge.org/what-cache) and in this [review
+[online](https://cache-challenge.org/what-cache), at the 
+[Conscience website](https://conscience.ca/cache-challenge/), and in this [review
 paper](https://www.nature.com/articles/s41570-022-00363-z).
 
 We are hugely grateful to the CACHE organisers for allowing us to
