@@ -59,6 +59,8 @@ In this post, I'll link to a few training materials and software packages that m
 
 [Learning Scientific Programming with Python.][python] The course textbook for my undergraduate Python classes (Newcastle students, feel free to message me for access to course materials). Textbook should be available through Newcastle University library.
 
+[Scientific computing resources.][newcastlerse] Collection of workshops delivered by the Newcastle RSE team, including git, python and unix.
+
 [Linux Command Line for Beginners.][linux] Feel free to send me other linux tutorials that you find useful.
 
 [Getting started with Conda.][conda] Official tutorial for getting started with Conda environment and package management. See also the [pip][pip] Python package manager.
@@ -76,6 +78,7 @@ Writing. David Mobley has some [nice tips][mobleylab] on academic writing style,
 [Narrative CVs.][cvs] Collection of resources on writing a narrative CV.
 
 
+[newcastlerse]: https://hackmd.io/@RSETeam
 [pip]: https://pip.pypa.io/en/stable/getting-started/
 [conda]: https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python
 [caddvault]: https://drugbud-suite.github.io/CADD_Vault/
