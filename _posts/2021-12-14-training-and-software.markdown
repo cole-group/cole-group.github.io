@@ -9,7 +9,7 @@ In this post, I'll link to a few training materials and software packages that m
 
 ## Workshops
 
-[CCP-BioSim.][ccpbiosim] (requires log-in) Excellent set of training modules and Youtube channel. Subjects include biomolecular dynamics, FESetup, BioSimSpace and Python for biomolecular modelling. See also this [training material][https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules] delivered at the CCP5 summer school.
+[CCP-BioSim.][ccpbiosim] (requires log-in) Excellent set of training modules and Youtube channel. Subjects include biomolecular dynamics, FESetup, BioSimSpace and Python for biomolecular modelling. See also this [training material][ccp5] delivered at the CCP5 summer school, with accompanying [JOSE paper][jose].
 
 [RSC Chemical Information and Computer Applications Group.][rsc-cicag] Highly recommended series of webinars on open source tools for chemistry, including cheminformatics, docking (gnina), chimeraX and pymol.
 
@@ -78,6 +78,8 @@ Writing. David Mobley has some [nice tips][mobleylab] on academic writing style,
 [Narrative CVs.][cvs] Collection of resources on writing a narrative CV.
 
 
+[jose]: https://jose.theoj.org/papers/10.21105/jose.00265
+[ccp5]: https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules
 [newcastlerse]: https://hackmd.io/@RSETeam
 [pip]: https://pip.pypa.io/en/stable/getting-started/
 [conda]: https://conda.io/projects/conda/en/latest/user-guide/getting-started.html#managing-python
